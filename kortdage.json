@@ -1,0 +1,11 @@
+{
+  "schemata": [
+    "kortdage"
+  ],
+  "enabledExtensions": [
+    "embed",
+    "editor",
+    "offlineMap",
+    "session"
+  ]
+}
