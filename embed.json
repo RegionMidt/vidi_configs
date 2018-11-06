@@ -1,1 +1,10 @@
-
+{
+  "enabledExtensions": [
+    "embed",
+    "editor",
+    "offlineMap",
+    "session"
+  ],
+  
+  "template": "embed.tmpl"
+}
