@@ -59,17 +59,6 @@
         "attribution": "&copy; SDFE & MapCentia ApS"
       }
     },
-        {
-      "id": "luftfotoserier.gl-flyfoto",
-      "name": "gl-flyfoto",
-      "db": "baselayers",
-      "host": "http://geomidt.flyfotoarkivet.dk/wms/service1.ashx?servicename%3Dregmidt_psmosaik%26amp",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 20,
-        "attribution": "&copy; SDFE & MapCentia ApS"
-      }
-    },
     {"id": "osm", "name": "OSM"},
     {"id": "stamenTonerLite", "name": "Stamen Toner Light"}
 
