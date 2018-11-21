@@ -28,7 +28,7 @@
       "id": "baggrundskort.ddoland1995",
       "name": "cowi luftfotos",
       "db": "miljoe",
-      "host": "rm.mapcentia.com",
+      "host": "https://rm.mapcentia.com",
       "config": {
         "maxZoom": 21,
         "maxNativeZoom": 19,
@@ -39,7 +39,7 @@
       "id": "baggrundskort._1954",
       "name": "gl luftfotos 40 50",
       "db": "miljoe",
-      "host": "rm.mapcentia.com",
+      "host": "https://rm.mapcentia.com",
       "config": {
         "maxZoom": 21,
         "maxNativeZoom": 19,
@@ -50,7 +50,7 @@
       "id": "baggrundskort.ddoland2008",
       "name": "cowi luftfotos 1995-2004",
       "db": "miljoe",
-      "host": "rm.mapcentia.com",
+      "host": "https://rm.mapcentia.com",
       "config": {
         "maxZoom": 21,
         "maxNativeZoom": 19,
