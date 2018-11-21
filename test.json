@@ -27,36 +27,36 @@
   
   "baseLayers": [
     {
-      "id": "geodk.bright",
-      "name": "GeoDanmark kort, lavkon",
-      "db": "baselayers",
-      "host": "https://gc2.io",
+      "id": "baggrundskort.ddoland1995",
+      "name": "cowi luftfotos",
+      "db": "miljoe",
+      "host": "rm.mapcentia.com",
       "config": {
         "maxZoom": 21,
         "maxNativeZoom": 19,
-        "attribution": "&copy; SDFE & MapCentia ApS"
+        "attribution": "&copy; COWI"
       }
     },
     {
-      "id": "luftfotoserier.geodanmark_2017_12_5cm",
-      "name": "Luftfoto 2017",
-      "db": "baselayers",
-      "host": "https://gc2.io",
+      "id": "baggrundskort._1954",
+      "name": "gl luftfotos 40 50",
+      "db": "miljoe",
+      "host": "rm.mapcentia.com",
       "config": {
         "maxZoom": 21,
-        "maxNativeZoom": 20,
-        "attribution": "&copy; SDFE & MapCentia ApS"
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
       }
     },
     {
-      "id": "luftfotoserier.geodanmark_2016_12_5cm",
-      "name": "Luftfoto 2016",
-      "db": "baselayers",
-      "host": "https://gc2.io",
+      "id": "baggrundskort.ddoland2008",
+      "name": "cowi luftfotos 1995-2004",
+      "db": "miljoe",
+      "host": "rm.mapcentia.com",
       "config": {
         "maxZoom": 21,
-        "maxNativeZoom": 20,
-        "attribution": "&copy; SDFE & MapCentia ApS"
+        "maxNativeZoom": 19,
+        "attribution": "&copy; COWI"
       }
     },
     {"id": "osm", "name": "OSM"},
