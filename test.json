@@ -1,9 +1,7 @@
 {
   "activateMainTab": "search",
 
-  "schemata": [
-    "public"
-  ],
+ 
 
   "extensionConfig": {
     "conflictSearch": {
