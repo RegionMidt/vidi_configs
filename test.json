@@ -25,63 +25,8 @@
   
   "baseLayers": [
     {
-      "id": "baggrundskort.ddoland1995",
-      "name": "cowi luftfotos 1995",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; COWI"
-      }
-    },
-    {
-      "id": "baggrundskort.ddoland1999",
-      "name": "cowi luftfotos 1999",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; COWI"
-      }
-    },
-    {
-      "id": "baggrundskort.ddoland2002",
-      "name": "cowi luftfotos 2002",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; COWI"
-      }
-    },
-    {
-      "id": "baggrundskort.ddoland2004",
-      "name": "cowi luftfotos 2004",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; COWI"
-      }
-    },
-    {
-      "id": "baggrundskort.ddoland2008",
-      "name": "cowi luftfotos 2008",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; COWI"
-      }
-    },
-    {
-      "id": "baggrundskort.ddoland2010",
-      "name": "cowi luftfotos 2010",
+      "id": "baggrundskort.ddoland2014",
+      "name": "cowi luftfotos 2014",
       "db": "miljoe",
       "host": "https://rm.mapcentia.com",
       "config": {
@@ -102,8 +47,8 @@
       }
     },
     {
-      "id": "baggrundskort.ddoland2014",
-      "name": "cowi luftfotos 2014",
+      "id": "baggrundskort.ddoland2010",
+      "name": "cowi luftfotos 2010",
       "db": "miljoe",
       "host": "https://rm.mapcentia.com",
       "config": {
@@ -112,10 +57,64 @@
         "attribution": "&copy; COWI"
       }
     },
-
     {
-      "id": "baggrundskort._1954",
-      "name": "gl luftfotos 1954",
+      "id": "baggrundskort.ddoland2008",
+      "name": "cowi luftfotos 2008",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; COWI"
+      }
+    },
+    {
+      "id": "baggrundskort.ddoland2004",
+      "name": "cowi luftfotos 2004",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; COWI"
+      }
+    },
+    {
+      "id": "baggrundskort.ddoland2002",
+      "name": "cowi luftfotos 2002",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; COWI"
+      }
+    },
+    {
+      "id": "baggrundskort.ddoland1999",
+      "name": "cowi luftfotos 1999",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; COWI"
+      }
+    },
+    {
+      "id": "baggrundskort.ddoland1995",
+      "name": "cowi luftfotos 1995",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; COWI"
+      }
+    },
+    {
+      "id": "baggrundskort._1993",
+      "name": "gl luftfotos 1993",
       "db": "miljoe",
       "host": "https://rm.mapcentia.com",
       "config": {
@@ -124,229 +123,9 @@
         "attribution": "&copy; I-GIS"
       }
     },
-    {
-      "id": "baggrundskort._1964",
-      "name": "gl luftfotos 1964",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1965",
-      "name": "gl luftfotos 1965",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1966",
-      "name": "gl luftfotos 1966",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1967",
-      "name": "gl luftfotos 1967",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1969",
-      "name": "gl luftfotos 1969",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1972",
-      "name": "gl luftfotos 1972",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1974",
-      "name": "gl luftfotos 1974",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1975",
-      "name": "gl luftfotos 1975",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1976",
-      "name": "gl luftfotos 1976",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1978",
-      "name": "gl luftfotos 1978",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1979",
-      "name": "gl luftfotos 1979",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1980",
-      "name": "gl luftfotos 1980",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1981",
-      "name": "gl luftfotos 1981",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1982",
-      "name": "gl luftfotos 1982",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1983",
-      "name": "gl luftfotos 1983",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1985",
-      "name": "gl luftfotos 1985",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1986",
-      "name": "gl luftfotos 1986",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1987",
-      "name": "gl luftfotos 1987",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1988",
-      "name": "gl luftfotos 1988",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1989",
-      "name": "gl luftfotos 1989",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy; I-GIS"
-      }
-    },
-    {
-      "id": "baggrundskort._1990",
-      "name": "gl luftfotos 1990",
+   {
+      "id": "baggrundskort._1992",
+      "name": "gl luftfotos 1992",
       "db": "miljoe",
       "host": "https://rm.mapcentia.com",
       "config": {
@@ -367,8 +146,8 @@
       }
     },
     {
-      "id": "baggrundskort._1992",
-      "name": "gl luftfotos 1992",
+      "id": "baggrundskort._1990",
+      "name": "gl luftfotos 1990",
       "db": "miljoe",
       "host": "https://rm.mapcentia.com",
       "config": {
@@ -378,8 +157,8 @@
       }
     },
     {
-      "id": "baggrundskort._1993",
-      "name": "gl luftfotos 1993",
+      "id": "baggrundskort._1989",
+      "name": "gl luftfotos 1989",
       "db": "miljoe",
       "host": "https://rm.mapcentia.com",
       "config": {
@@ -388,6 +167,238 @@
         "attribution": "&copy; I-GIS"
       }
     },
+    {
+      "id": "baggrundskort._1988",
+      "name": "gl luftfotos 1988",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1987",
+      "name": "gl luftfotos 1987",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1986",
+      "name": "gl luftfotos 1986",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1985",
+      "name": "gl luftfotos 1985",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1983",
+      "name": "gl luftfotos 1983",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1982",
+      "name": "gl luftfotos 1982",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1981",
+      "name": "gl luftfotos 1981",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1980",
+      "name": "gl luftfotos 1980",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1979",
+      "name": "gl luftfotos 1979",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1978",
+      "name": "gl luftfotos 1978",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1976",
+      "name": "gl luftfotos 1976",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1975",
+      "name": "gl luftfotos 1975",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1974",
+      "name": "gl luftfotos 1974",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1972",
+      "name": "gl luftfotos 1972",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1969",
+      "name": "gl luftfotos 1969",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1967",
+      "name": "gl luftfotos 1967",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1966",
+      "name": "gl luftfotos 1966",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1965",
+      "name": "gl luftfotos 1965",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1964",
+      "name": "gl luftfotos 1964",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort._1954",
+      "name": "gl luftfotos 1954",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; I-GIS"
+      }
+    },
+    {
+      "id": "baggrundskort.lw1944",
+      "name": "gl luftfotos 1944",
+      "db": "miljoe",
+      "host": "https://rm.mapcentia.com",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "ingen &copy"
+      }
+    },
+
 
     {"id": "osm", "name": "OSM"},
     {"id": "stamenTonerLite", "name": "Stamen Toner Light"}
