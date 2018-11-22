@@ -112,17 +112,7 @@
         "attribution": "&copy; COWI"
       }
     },
-    {
-      "id": "baggrundskort.lw1944",
-      "name": "gl luftfotos 1944",
-      "db": "miljoe",
-      "host": "https://rm.mapcentia.com",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 19,
-        "attribution": "&copy"
-      }
-    },
+
     {
       "id": "baggrundskort._1954",
       "name": "gl luftfotos 1954",
